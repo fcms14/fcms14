@@ -5,7 +5,7 @@
 <a href="https://twitter.com/fcms14" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 
 ## Full-Stack Developer | Java | SQL | PHP | TypeScript | PineScript
-I've been developing a lot of things since 2019.
+I've been developing a lot of things since 2008.
 
 - 🌍 based in São Paulo, Brazil
 - 🎓 graduated in 2012 in Analysis and Systems Development @FMU
