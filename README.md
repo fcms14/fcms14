@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/fcms14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 <a href="https://twitter.com/fcms14" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 
-## Full-Stack Developer | Java | SQL | PHP | TypeScript | PineScript
+## Software Architect | Java | SQL | PHP | TypeScript 
 I've been developing a lot of things since 2008.
 
 - 🌍 based in São Paulo, Brazil
